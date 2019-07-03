@@ -94,7 +94,6 @@ SDK 实现可视化埋点方案，支持动态修改打点配置文件，动态�
 ### API
 测试服接口
 #### 圈选配置接口
-app_id,version 参数
 [API 示例](./resources/config.json)
 
 #### 打点上报接口
