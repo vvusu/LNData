@@ -1,0 +1,57 @@
+{
+    "code": 2000,
+    "data": [
+        {
+            "cid": 6,
+            "app_id": "com.app.test",
+            "version": "6.3.6",
+            "key": "09d23f70772b0b33ecb122374e7316d449a1cd248338912a73bdefa50158ff86",
+            "author": "taotie",
+            "event_type": "Click",
+            "subtype": "Button",
+            "name": "快讯按钮",
+            "sign": "\u0026WSCNTabBar\u0026tabBarItemClicked:",
+            "page": "MTabBarController",
+            "image": "",
+            "active": true,
+            "path": "/MTabBarController/WSCNTabBar(0)/WSCNTabBarItem(1)",
+            "info": "{\"action\":\"tabBarItemClicked:\",\"rect\":\"82.8,-8,82.8,57\",\"target\":\"WSCNTabBar\",\"title\":\"快讯\",\"title_color\":\"#1482F0\"}",
+            "params": "{}"
+        },
+        {
+            "cid": 5,
+            "app_id": "com.app.test",
+            "version": "6.3.6",
+            "key": "b5330e400961093fca4d1abdccf922db93c9bfcad18338415d3b229abb83bd81",
+            "author": "wscn",
+            "event_type": "Click",
+            "subtype": "Button",
+            "name": "见闻按钮",
+            "sign": "\u0026WSCNTabBar\u0026tabBarItemClicked:",
+            "page": "MTabBarController",
+            "image": "",
+            "active": true,
+            "path": "/MTabBarController/WSCNTabBar(0)/WSCNTabBarItem(0)",
+            "info": "{\"action\":\"tabBarItemClicked:\",\"rect\":\"0,-8,82.8,57\",\"target\":\"WSCNTabBar\",\"title\":\"见闻\",\"title_color\":\"#1482F0\"}",
+            "params": "{}"
+        },
+        {
+            "cid": 7,
+            "app_id": "com.app.test",
+            "version": "6.3.6",
+            "key": "f9661b5ff32d454077ef22e40fc48211658f0c4a23f3cd41b2c3306b70bc2a97",
+            "author": "taotie",
+            "event_type": "Click",
+            "subtype": "Button",
+            "name": "行情按钮",
+            "sign": "\u0026WSCNTabBar\u0026tabBarItemClicked:",
+            "page": "MTabBarController",
+            "image": "",
+            "active": true,
+            "path": "/MTabBarController/WSCNTabBar(0)/WSCNTabBarItem(3)",
+            "info": "{\"action\":\"tabBarItemClicked:\",\"rect\":\"248.4,-8,82.8,57\",\"target\":\"WSCNTabBar\",\"title\":\"行情\",\"title_color\":\"#999999\"}",
+            "params": "{}"
+        }
+    ],
+    "message": "OK"
+}
